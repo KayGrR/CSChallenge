@@ -4,7 +4,7 @@
 
 h1 {
      text-align: center; 
-     background-image: url('/Users/keneshiagrant/Documents/PROJECTS/CS /Resources/Images/pattern2.jpg');
+     background-image: url('Images/pattern2.jpg');
      background-size: cover;
      position: relative;      
       top: 0px;  

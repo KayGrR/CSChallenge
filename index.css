@@ -1,0 +1,74 @@
+* {
+      background: rgb(183, 242, 242);
+}
+
+h1 {
+     text-align: center; 
+     background-image: url('/Users/keneshiagrant/Documents/PROJECTS/CS /Resources/Images/pattern2.jpg');
+     background-size: cover;
+     position: relative;      
+      top: 0px;  
+      padding: 10px;
+      color: #f3cbf3;
+      font-weight: bold; 
+      font-size: 100px;
+      margin: align-center;
+      display: block;
+}
+
+.introduction {
+    text-align: center;
+    font-size: 25px;
+    color: #333;
+    margin: 20px auto;
+    width: 80%;
+    line-height: 1.6;
+    font-weight: bolder;
+}
+
+.table,
+td,
+th {
+      border: 2px solid #000;
+       margin: 20px auto;
+    border-collapse: collapse;
+}
+
+h3 {
+      text-align: center;
+      font-size: 20px;
+      color: #333;
+      margin-top: 20px;
+}
+
+.table th {
+      background-color: #fff;
+      font-weight: bold;
+      font-size: 20px; 
+}
+
+.name {
+      font-weight: bold;
+      color: #000;
+}
+
+#header-name {
+      padding: 10px;
+}
+
+td {
+      padding: 4px 10px
+}
+
+#src-attribute, 
+#tr-link {
+      background-color: yellow
+}
+
+h4 #name {
+      font-weight: bold;
+      font-size: 18px;
+      margin-top: 20px;
+      font-family: "Times New Roman", Times, serif;
+      font-style: italic;
+}
